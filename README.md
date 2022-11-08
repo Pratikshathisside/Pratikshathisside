@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 Click on the icons to go on respective pages.
--On LinkedIn<a href = 'https://www.linkedin.com/in/pratiksha-g-2bb446234'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>      
--On GitHub<a href = 'https://github.com/Pratikshathisside'> <img width = '50px' align= 'center' 
+-My LinkedIn profile<a href = 'https://www.linkedin.com/in/pratiksha-g-2bb446234'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>      
+-My GitHub profile<a href = 'https://github.com/Pratikshathisside'> <img width = '50px' align= 'center' 
 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 MY ACTIVITY STATUS
