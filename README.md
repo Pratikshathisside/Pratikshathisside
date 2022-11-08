@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="100%" height = "250px" src="" alt="cover" />
+<img width="100%" height = "250px" src="coder.jpg.png" alt="cover" />
 </div>
 
 <h1> Hello Coders, Pratiksha here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
