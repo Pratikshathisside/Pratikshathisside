@@ -1,6 +1,4 @@
-### Hi there 👋
-🔭 I’m currently working on several projects.
-🌱 I’m currently learning and enhacing my skills
+
 <!--
 **Pratikshathisside/Pratikshathisside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
