@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on  Github Project
+- 🔭 I’m currently working on  Github Projects on different skills.
 
 - 🌱 I’m currently learning Data Structure and algorithm. 
 
