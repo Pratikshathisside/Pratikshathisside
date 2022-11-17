@@ -35,7 +35,7 @@ Click on the icons to go on respective pages.
 -My LinkedIn profile<a href = 'https://www.linkedin.com/in/pratiksha-g-2bb446234'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>      
 -My GitHub profile<a href = 'https://github.com/Pratikshathisside'> <img width = '50px' align= 'center' 
 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
--My Portfolio<a href = 'https://pratikshathisside.github.io/portfolio_trial/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+-My Portfolio<a href = 'https://pratikshathisside.github.io/portfolio_trial/'> <img width = '32px' align= 'center' src="https://www.bing.com/images/search?view=detailV2&ccid=SO75%2Bb1O&id=9559B87C8B84C9043227B20BAFBB310BB7269B3B&thid=OIP.SO75-b1OTnpV4XCMRuLRFgHaHa&mediaurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F48%2F48540.png&exph=512&expw=512&q=portfolio+profile+icon&simid=608002507167500682&form=IRPRST&ck=F2F0F47695CFF3F1E48D56CC195E3B67&selectedindex=81&ajaxhist=0&ajaxserp=0&vt=0&sim=11"/></a> 
 
 MY ACTIVITY STATUS
 <div align="center">
