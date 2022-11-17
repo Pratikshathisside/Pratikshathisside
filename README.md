@@ -35,6 +35,7 @@ Click on the icons to go on respective pages.
 -My LinkedIn profile<a href = 'https://www.linkedin.com/in/pratiksha-g-2bb446234'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>      
 -My GitHub profile<a href = 'https://github.com/Pratikshathisside'> <img width = '50px' align= 'center' 
 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+-My Portfolio<a href = 'https://pratikshathisside.github.io/portfolio_trial/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
 MY ACTIVITY STATUS
 <div align="center">
