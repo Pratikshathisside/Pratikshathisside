@@ -37,10 +37,7 @@ Click on the icons to go on respective pages.
 -My GitHub profile<a href = 'https://github.com/Pratikshathisside'> <img width = '50px' align= 'center' 
 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 -My Portfolio<a href = 'https://pratikshathisside.github.io/portfolio_trial/'> <img width = '40px' align= 'center' src="port.jpg"/></a> 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Pratikshathisside/count.svg" />
-</p>
+
 
 MY ACTIVITY STATUS
 <div align="center">
@@ -50,6 +47,10 @@ MY ACTIVITY STATUS
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratikshathisside&theme=github_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratikshathisside&theme=github_dark" />
 </div>
-<a href=#><img src="contributions.svg"></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Pratikshathisside/count.svg" />
+</p>
+
 
 
