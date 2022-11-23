@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Pratikshathisside/count.svg" />
-</p>
+
 
 <img width="100%" height = "250px" src="coder.jpg.png" alt="cover" />
 </div>
@@ -33,7 +30,10 @@ Here are some ideas to get you started:
 
 - 💬 Talk to me about  DSA, flutter, HTML, CSS , Machine Learning, Python.
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Pratikshathisside/count.svg" />
+</p>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
