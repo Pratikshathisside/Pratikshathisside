@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Pratikshathisside/count.svg" />
+</p>
+
 <img width="100%" height = "250px" src="coder.jpg.png" alt="cover" />
 </div>
 
@@ -47,10 +52,6 @@ MY ACTIVITY STATUS
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratikshathisside&theme=github_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratikshathisside&theme=github_dark" />
 </div>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Pratikshathisside/count.svg" />
-</p>
 
 
 
